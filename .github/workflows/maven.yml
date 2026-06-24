@@ -17,6 +17,9 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
         cache: maven
+    - name: Grant execute permission to mvnw
+      working-directory: ./JWT Authentication System/jwt-auth-backend
+      run: chmod +x mvnw
     - name: Build with Maven
       working-directory: ./JWT Authentication System/jwt-auth-backend
       run: ./mvnw clean compile
