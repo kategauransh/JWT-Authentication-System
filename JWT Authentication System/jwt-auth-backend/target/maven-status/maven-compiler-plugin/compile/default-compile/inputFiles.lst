@@ -1,0 +1,14 @@
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\model\Role.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\config\SecurityConfig.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\controller\DashboardController.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\controller\payload\LoginRequest.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\controller\payload\AuthResponse.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\service\JwtService.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\model\User.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\config\JwtAuthenticationFilter.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\controller\AuthController.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\repository\UserRepository.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\config\DataInitializer.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\controller\payload\RegisterRequest.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\JwtAuthApplication.java
+C:\Users\kateg\.gemini\antigravity\scratch\JWT-Authentication-System\JWT Authentication System\jwt-auth-backend\src\main\java\com\gauransh\jwtauth\service\CustomUserDetailsService.java

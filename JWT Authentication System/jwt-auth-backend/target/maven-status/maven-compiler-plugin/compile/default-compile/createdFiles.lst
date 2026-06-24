@@ -1,0 +1,14 @@
+com\gauransh\jwtauth\controller\AuthController.class
+com\gauransh\jwtauth\service\CustomUserDetailsService.class
+com\gauransh\jwtauth\config\SecurityConfig.class
+com\gauransh\jwtauth\config\JwtAuthenticationFilter.class
+com\gauransh\jwtauth\controller\payload\RegisterRequest.class
+com\gauransh\jwtauth\model\User.class
+com\gauransh\jwtauth\service\JwtService.class
+com\gauransh\jwtauth\model\Role.class
+com\gauransh\jwtauth\controller\DashboardController.class
+com\gauransh\jwtauth\config\DataInitializer.class
+com\gauransh\jwtauth\repository\UserRepository.class
+com\gauransh\jwtauth\controller\payload\LoginRequest.class
+com\gauransh\jwtauth\controller\payload\AuthResponse.class
+com\gauransh\jwtauth\JwtAuthApplication.class
